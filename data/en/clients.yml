@@ -1,13 +1,10 @@
 enable    : true
 title     : Companies we helped
 clientLogo:
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
+- image : images/client-logo/shell.jpg
+- image : images/client-logo/trim-it.png
+- image : images/client-logo/mallowstreet-logo.png
+- image : images/client-logo/wanderpay.jpg
+- image : images/client-logo/ft.jpg
+- image : images/client-logo/BTG.png
+- image : images/client-logo/lightful.png
