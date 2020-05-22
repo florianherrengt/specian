@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-mobile
+    title : Web and Mobile Application
+    description : >
+      Build your responsive website along side of your iOS and Android app. We use the most advanced technologies to ensure your app works flawlessly across the whole spectrum of mobile devices.
+
+  - icon  :  tf-ion-ios-cloud
+    title : Cloud Management
+    description : >
+      We provide secure cloud-based hosting for your application, making it ready for the real world from the moment it’s launched. Our servers are optimised for performance and reliability.
+
+  - icon  :  tf-ion-ios-settings
+    title : Bespoke Software
+    description : >
+      We work across the full software stack from database and back-end servers up to slick, accessible and attractive front end user interfaces. We are experienced across a wide range of industries and able to tackle any type of project.

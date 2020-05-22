@@ -1,0 +1,21 @@
+enable  : true
+topTitle: TEAM MEMBER
+title   : Our Team.
+subtitle: Specian is a close-knit team of experts in the field of software development.
+
+member  :
+  - image         : images/team/member-1.jpg
+    name          : Florian Herrengt
+    designation   : Javascript & DevOps
+    description   : > 
+      Florian worked as a consultant for start-ups and corporations in and around the City of London. He is a back-end expert with a lust for anything JavaScript. He also founded three start-ups.
+    twitterURL    : https://twitter.com/florianherrengt
+    linkedInURL   : https://www.linkedin.com/in/florian-herrengt-ab203494/
+
+  - image         : images/team/member-2.jpg
+    name          : Aline Francois
+    designation   : C# & Azure
+    description   : >
+      Aline has experience in architecting large-scale platforms in the financial services sector. She delivered robust and elegant solutions to complex problems using Microsoft technologies. 
+    twitterURL    : https://twitter.com/AlineFranois2
+    linkedInURL   : https://www.linkedin.com/in/aline-francois-6673519a/

@@ -1,0 +1,37 @@
+enable  : true
+title   : Pricing.
+
+item  :
+  - name        : Cloud Management
+    price       : £500+ / mo
+    description : Instantly get a DevOps team
+    featurelist :
+      - item: Deploy a stable and reliable application
+      - item: Scale your business
+      - item: Find the solution to your hosting needs
+      - item: Access to a team of experienced profesionnals
+      - item: Available for AWS and Azure
+      - item: 24/7 Monitoring
+
+  - name        : cto advisory
+    price       : £3,000 / mo
+    description : Make the right technical decisions
+    featurelist :
+      - item: Architect and design your systems
+      - item: Lead your product development
+      - item: Assemble a team of developers
+      - item: Meet with your investors
+      - item: Ensure production-quality code
+      - item: Future proof your business
+
+  - name        : Custom software
+    price       : Contact us
+    description : We build what you need
+    featurelist :
+      - item: Pay only for what you need
+      - item: Transparent with expectations and deadlines
+      - item: Build exactly what you need
+      - item: 10 GB Bandwidth
+      - item: 24/7 Tech Support
+      - item: On-going support available
+
