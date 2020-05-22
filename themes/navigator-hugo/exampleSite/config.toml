@@ -55,9 +55,9 @@ footerSubscribeTitle = "FRANCAIS Subscribe"
 enable  = true
 heading = "FRANCAIS We love to make brands grow"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-button  = true
+button  = false
 btnText = "Know More"
-btnURL  = "https://themefisher.com/"
+btnURL  = "mailto:contact@specian.co.uk"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
@@ -122,9 +122,8 @@ footerSubscribeTitle = "Subscribe"
 enable  = true
 heading = "We love to make brands grow"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
+button  = false
+btnURL  = "mailto:contact@specian.co.uk"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
