@@ -445,6 +445,21 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.bg-pricing-cloud {
+  background: url("../images/pricing/cloud.jpg");
+  background-size: cover;
+}
+
+.bg-pricing-cto {
+  background: url("../images/pricing/cto.jpg");
+  background-size: cover;
+}
+
+.bg-pricing-custom {
+  background: url("../images/pricing/custom.jpg");
+  background-size: cover;
+}
+
 .single-page-header {
   background: #1f2532;
   padding: 50px 0;
