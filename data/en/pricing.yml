@@ -28,10 +28,10 @@ item  :
     price       : Contact us
     description : We build what you need
     featurelist :
-      - item: Pay only for what you need
+      - item: Pay as you go
+      - item: Build what you need
       - item: Transparent with expectations and deadlines
-      - item: Build exactly what you need
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
+      - item: A team with 10 years of experience
+      - item: Get guidance and advice
       - item: On-going support available
 
