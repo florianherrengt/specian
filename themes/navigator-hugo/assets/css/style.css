@@ -7,7 +7,7 @@ body {
 
 p {
   font-family: "Titillium Web", sans-serif;
-  color: #9a9a9a;
+  color: #263238;
   font-size: 17px;
 }
 
@@ -666,6 +666,12 @@ a:focus, a:hover {
   line-height: 80px;
   font-size: 30px;
   margin-left: 5px;
+}
+
+
+.blog-single blockquote p {
+  font-size: 20px;
+  font-style: italic;
 }
 
 .hero-area-video {

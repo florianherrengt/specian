@@ -6,7 +6,7 @@
             <div class="col-md-8 mx-auto">
                 <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3" alt="Post-Image">
                 <h2>{{ .Title }}</h2>
-                <div class="post-meta mb-5">
+                <div class="post-meta mb-2">
                     <ul class="list-inline">
                         <li class="list-inline-item">
                             <span>{{ .Date.Format .Site.Params.dateFormat }}</span>
