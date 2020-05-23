@@ -1,6 +1,7 @@
 enable  : true
+topTitle: OUR SERVICES
 title   : Pricing
-
+subtitle: We offer a wide range of services across the full software stack.
 item  :
   - name        : Cloud Management
     imageClass  : cloud

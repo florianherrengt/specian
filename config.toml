@@ -138,8 +138,8 @@ description = "We work as partners with our clients through every step of the de
 [Languages.en.params.blog]
 enable  = true
 topTitle= "OUR UNTOLD STORY"
-title   = "Blog."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+title   = "Blog"
+subtitle= "The stories that makes us what we are"
 
 # Contact Section
 [Languages.en.params.contact]
