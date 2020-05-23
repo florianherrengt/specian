@@ -38,7 +38,7 @@ description = "This is meta description"
 [Languages.fr]
 weight = 1
 languageCode = "fr-fr"
-title = "FRANCAIS Example site multi-language"
+title = "Specian"
 dateFormat = "2 January 2006"
 
 home = "FR Home"
@@ -104,7 +104,7 @@ btnText = "Nous contacter"
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "Specian"
 dateFormat = "January 2, 2006"
 
 home = "Home"
