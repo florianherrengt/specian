@@ -54,4 +54,4 @@ Every entrepreneur is passionate about his or her idea. But time and again we se
 
 Often the better team will beat companies that have raised far more money or have already been around for years.
 
-If you are looking for advice, [Sepician](http://specian.co.uk) has already helped several startups and large corporations.
+If you are looking for advice, [Specian](http://specian.co.uk) has already helped several startups and large corporations.
