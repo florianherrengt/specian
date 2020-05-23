@@ -2,9 +2,9 @@ enable    : true
 title     : We worked for
 clientLogo:
 - image : images/client-logo/shell.jpg
-- image : images/client-logo/trim-it.png
-- image : images/client-logo/mallowstreet-logo.png
-- image : images/client-logo/wanderpay.jpg
 - image : images/client-logo/ft.jpg
 - image : images/client-logo/BTG.png
+- image : images/client-logo/mallowstreet-logo.png
+- image : images/client-logo/trim-it.png
+- image : images/client-logo/wanderpay.jpg
 - image : images/client-logo/lightful.png
