@@ -119,7 +119,7 @@ footerSubscribeTitle = "Subscribe"
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We love to make brands grow"
+heading = "We solve your technical challenges"
 description = "Based in London, Specian has a long history of working with disruptive startups and some of the largest companies in the world. We don’t believe in hacky, one-size-fits-all solutions. All of our projects are built on modern technologies and a long-term vision, facilitating future growth for our clients"
 button  = true
 btnText = "Contact us"
