@@ -18,7 +18,7 @@ Create as many versions as you can, exhaust your options. Find all the ways to s
 
 Don’t put much effort into making it beautiful. We use paper because it’s easier to throw it away. When you spend time doing something, you get attached to it.
 
-Keep iterating until you’re happy with what you have, 
+Keep iterating until you’re happy with what you have. 
 
 ### Bring it to life
 

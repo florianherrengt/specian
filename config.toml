@@ -70,7 +70,6 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae de
 # Blog Section On Homepage
 [Languages.fr.params.blog]
 enable  = true
-topTitle= "OUR UNTOLD STORY"
 title   = "FRANCAIS Blog."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
@@ -121,7 +120,7 @@ footerSubscribeTitle = "Subscribe"
 [Languages.en.params.hero]
 enable  = true
 heading = "We love to make brands grow"
-description = "Born in London, Specian has a long history of working with disruptive startups and some of the largest companies. We don’t believe one size fits all, and we don’t just apply a quick fix, to get short-term unsustainable results. All our projects are built on solid foundations on which future growth and success can be based."
+description = "Based in London, Specian has a long history of working with disruptive startups and some of the largest companies in the world. We don’t believe in hacky, one-size-fits-all solutions. All of our projects are built on modern technologies and a long-term vision, facilitating future growth for our clients"
 button  = true
 btnText = "Contact us"
 btnURL  = "mailto:contact@specian.co.uk"
@@ -137,9 +136,8 @@ description = "We work as partners with our clients through every step of the de
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable  = true
-topTitle= "OUR UNTOLD STORY"
 title   = "Blog"
-subtitle= "The stories that makes us what we are"
+subtitle= "The stories that make us what we are"
 
 # Contact Section
 [Languages.en.params.contact]
