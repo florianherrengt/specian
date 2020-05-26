@@ -67,3 +67,6 @@ If you intend to have end users, we recommend you to always write tests and set 
 ### Scale carefully
 
 Building a scalable app requires a gigantic amount of work, expensive resources and complex skills. It involves teams of engineers specialised in their respective domain.
+
+
+If you want to work with us, [drop us an email!](mailto:contact@specian.co.uk)

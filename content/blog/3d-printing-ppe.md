@@ -4,12 +4,15 @@ date: 2020-05-22T12:22:40+06:00
 image: images/blog/3d-printing-ppe.jpg
 summary: "How we created 2,500+ face shields for NHS workers to fight the PPE shortage crisis"
 ---
+
+### The project
+
 We arrived in London on an unsurprisingly rainy day 6 years ago. We’ve been feeling right at home ever since, enjoying the vibrant and buzzing city life in Isle of Dogs, East London.
 We are both passionate software engineers. The best part in our job, in our opinion, is being able to solve problems and help people with their digital challenges.
 
 Being a quite geeky couple, we got ourselves a 3D printer last Christmas and had a lot of fun with it! On our quest to make ourselves useful, we found a post on a 3D printing forum about people printing face shields at home to help healthcare workers. That’s when it all clicked, we already had most of the equipment, it just made sense for us to get started and try to help! All we needed was to buy some A4 binding covers and a hole puncher.
 
-### First steps & optimisation 
+### First steps & iterations 
 
 When we distributed our first batch (only a dozen) we realised the demand for protection was much higher than we thought. More and more people would reach out and ask us how many we could make for them. We felt we needed to do more, so we started using our printer 24/7. We spent days learning more about 3D printing to tweak our configuration and other settings to optimize our prints.
 Initially, it took us almost an hour to print a single headband. 
@@ -51,3 +54,6 @@ To everyone who contributed to this project, from the bottom of our hearts, than
 
 
 Aline & Florian
+
+
+If you want to work with us, [drop us an email!](mailto:contact@specian.co.uk)
