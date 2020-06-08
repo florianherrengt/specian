@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/how-to-build-mvp/</loc>
-    <lastmod>2020-05-23T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2020-05-23T12:22:40+06:00</lastmod>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,7 +19,12 @@
   
   <url>
     <loc>/blog/3d-printing-ppe/</loc>
-    <lastmod>2020-05-22T12:22:40+06:00</lastmod>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/how-to-build-mvp/</loc>
+    <lastmod>2020-05-23T12:22:40+06:00</lastmod>
   </url>
   
   <url>
