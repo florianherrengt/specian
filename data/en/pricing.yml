@@ -4,33 +4,36 @@ title   : Pricing
 subtitle: We offer a wide range of services across the full software stack.
 item  :
   - name        : Cloud Management
+    learnMoreUrl: /
     imageClass  : cloud
     price       : £300+ / mo
-    description : Instantly get a DevOps team
+    description : Worry-free hosting
     featurelist :
       - item: Deploy a stable and reliable application
       - item: Scale your business
       - item: Find the solution to your hosting needs
-      - item: Access to a team of experienced profesionnals
-      - item: Available for AWS and Azure
+      - item: Ship and run stable apps
+      - item: Fully automate your app delivery pipeline
       - item: 24/7 Monitoring
 
   - name        : cto advisory
+    learnMoreUrl: /cto/index.html
     imageClass  : cto
     price       : £1,500 / mo
     description : Make the right technical decisions
     featurelist :
-      - item: Architect and design your systems
+      - item: Realtime access to experienced engineers
       - item: Lead your product development
       - item: Assemble a team of developers
       - item: Meet with your investors
       - item: Ensure production-quality code
-      - item: Future proof your business
+      - item: Avoid technical debt
 
   - name        : Custom software
+    learnMoreUrl: /
     imageClass  : custom
     price       : Contact us
-    description : We build what you need
+    description : Build what you need
     featurelist :
       - item: Pay as you go
       - item: Build what you need

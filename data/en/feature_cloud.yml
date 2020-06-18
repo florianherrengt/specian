@@ -1,0 +1,46 @@
+enable: true
+item:
+  - icon: tf-ion-chatbox-working
+    title: Real time communiation
+    description: >
+      Unlock realtime access to our engineers and mobile experts via dedicated chat.
+
+  - icon:  tf-ion-code-working
+    title: Live Code Analysis
+    description: >
+      Go line-by-line with our experts as they share coding best practices and advice.
+
+  - icon: tf-ion-ios-book
+    title: Custom Training
+    description: >
+      Give your team the skills and tools they need to be successful building apps on day one.
+
+  - icon:  tf-ion-ios-eye
+    title: Architecture Reviews
+    description: >
+      Sit down with us and walk through all aspects of your project and current tech stack or architecture, to identify vulnerabilities and opportunities for improvement.
+
+  - icon:  tf-ion-ios-gear
+    title: Integration Support
+    description: >
+      Ensure secure and reliable connections with third-party services and legacy systems.
+
+  - icon: tf-ion-checkmark-circled
+    title: Technical Debt Avoidance
+    description: >
+      Provide customized strategies to help you lay the right foundation and avoid technical debt.
+
+  - icon: tf-ion-android-star
+    title: DevOps Best Practices
+    description: >
+      Automate every phase of app your development and delivery, with best practices to help you get the most out of available tools and services.
+
+  - icon: tf-ion-arrow-graph-up-right
+    title: Time-to-Market Acceleration
+    description: >
+      Work with our experts to improve time-to-market. We’ll help you identify strategies for improving efficiency and speeding up development.
+
+  - icon: tf-ion-ios-person
+    title: Guidance & Troubleshooting
+    description: >
+      Experiencing issues? Persistent defects slowing down development? Get real-time troubleshooting and advice to help keep your projects moving.

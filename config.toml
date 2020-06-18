@@ -127,11 +127,20 @@ btnURL  = "mailto:contact@specian.co.uk"
 videoThumb = "images/slider/feature_vector.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
+[Languages.en.params.hero_cto]
+heading = "Helping you meet your critical development goals"
+description = "Kicking off a mission-critical development project? Trying to accelerate development to keep pace with a growing app backlog? Building your MVP? We can help."
+
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "A true partner you can rely on to build and scale your business"
 description = "We work as partners with our clients through every step of the development process. We understand they want straightforward, practical solutions from a team they value and trust"
+
+[Languages.en.params.aboutSmCto]
+enable  = true
+title   = "Focus on what matters"
+description = "Do what you could never do before. We help you choose the right strategy for your unique goals, manage risk and avoid technical debt."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -162,7 +171,7 @@ mapMarker   = "images/marker.png"
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+subtitle= "Tackle your biggest challenges with tailored solutions and expert services."
 btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font

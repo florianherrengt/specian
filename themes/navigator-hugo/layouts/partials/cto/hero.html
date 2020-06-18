@@ -1,0 +1,32 @@
+
+<section class="hero-area">
+  <div class="container">
+    <div class="row">
+      <div>
+        <div class="block">
+          {{ with .Site.Params.hero_cto.heading }}
+          <h2>{{ . }}</h2>
+          {{ end }} {{ with .Site.Params.hero_cto.description }}
+          <p style="font-size: 24px; line-height: 1.5;">{{ . }}</p>
+          {{ end }} {{ if .Site.Params.hero_cto.button }}
+          <ul
+            class="list-inline wow fadeInUp"
+            data-wow-duration=".5s"
+            data-wow-delay=".7s"
+          >
+            <li class="list-inline-item">
+              <a
+                href="{{ with .Site.Params.hero_cto.btnURL }}{{.}}{{ end }}"
+                target="_blank"
+                class="btn btn-main"
+                >{{ with .Site.Params.hero_cto.btnText }}{{.}}{{ end }}</a
+              >
+            </li>
+          </ul>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

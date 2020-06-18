@@ -5,24 +5,24 @@ subtitle: We follow agile best-practice throughout the project lifecycle to ensu
 item    :
   - number  : 1
     icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    title   : Planning
     description : >
-      Through collaboration and transparency, we establish a path to sucesss for your project
+      Strategies to help you meet your app development goals, including architectural reviews, planning and risk assessments, and development strategies.
 
   - number  : 2
     icon    : tf-ion-ios-loop-strong
-    title   : Feedback Loop
+    title   : Development
     description : >
-      Our work is deployed regularly to gather your feedback and deliver the product you want
+      A partner to your development resources that shares best practices, code samples, and assists with debugging, all to help boost your team's productivity.
 
   - number  : 3
     icon    : tf-ion-android-upload
-    title   : Go Live
+    title   : Deployment
     description : >
-      The application is made available to the public when you are fully satisfied
+      Tailored recommendations and resources to meet your deployment objectives, like how to automate deployment and delivery.
 
   - number  : 4
     icon    : tf-ion-ios-people
-    title   : Support
+    title   : Maintenance
     description : >
-      We garantee the reliability and scaling of the servers and stay on the line if you need us.
+      Active maintenance and support for everything you build with us, keeping your apps running smoothly and protecting you from disruption.
