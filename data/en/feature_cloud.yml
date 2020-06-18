@@ -1,46 +1,33 @@
 enable: true
 item:
-  - icon: tf-ion-chatbox-working
-    title: Real time communiation
+  - icon: tf-ion-android-boat
+    title: Ship stable apps
     description: >
-      Unlock realtime access to our engineers and mobile experts via dedicated chat.
+      Deliver a better experience to your users by sending updates directly to them and monitor in real-time.
 
-  - icon:  tf-ion-code-working
-    title: Live Code Analysis
+  - icon: tf-ion-android-refresh
+    title: Deliver continuously
     description: >
-      Go line-by-line with our experts as they share coding best practices and advice.
+      Automate app delivery. Our preconfigured, customizable best practices automate your delivery pipeline in minutes.
 
-  - icon: tf-ion-ios-book
-    title: Custom Training
+  - icon: tf-ion-ios-people
+    title: Empower the entire team
     description: >
-      Give your team the skills and tools they need to be successful building apps on day one.
+      Leverage automation to help your team move faster and iterate quickly to deploy features and fixes at the speed of development.
 
-  - icon:  tf-ion-ios-eye
-    title: Architecture Reviews
+  - icon: tf-ion-android-lock
+    title: Advanced security
     description: >
-      Sit down with us and walk through all aspects of your project and current tech stack or architecture, to identify vulnerabilities and opportunities for improvement.
+      Implement excellent data protection without being a security expert. We deploy and manage your app, so you can get back to focusing on your business.
 
-  - icon:  tf-ion-ios-gear
-    title: Integration Support
+  - icon: tf-ion-ios-bolt
+    title: Ultra performant
     description: >
-      Ensure secure and reliable connections with third-party services and legacy systems.
+      Built on an industry-leading technologies, designed to outperform traditional systems.
 
-  - icon: tf-ion-checkmark-circled
-    title: Technical Debt Avoidance
+  - icon: tf-ion-ios-checkmark
+    title: Highly reliable
     description: >
-      Provide customized strategies to help you lay the right foundation and avoid technical debt.
+      Reduce risk of data loss in the event of an unexpected crash or power failure.
 
-  - icon: tf-ion-android-star
-    title: DevOps Best Practices
-    description: >
-      Automate every phase of app your development and delivery, with best practices to help you get the most out of available tools and services.
 
-  - icon: tf-ion-arrow-graph-up-right
-    title: Time-to-Market Acceleration
-    description: >
-      Work with our experts to improve time-to-market. We’ll help you identify strategies for improving efficiency and speeding up development.
-
-  - icon: tf-ion-ios-person
-    title: Guidance & Troubleshooting
-    description: >
-      Experiencing issues? Persistent defects slowing down development? Get real-time troubleshooting and advice to help keep your projects moving.

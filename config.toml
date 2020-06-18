@@ -131,6 +131,10 @@ videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 heading = "Helping you meet your critical development goals"
 description = "Kicking off a mission-critical development project? Trying to accelerate development to keep pace with a growing app backlog? Building your MVP? We can help."
 
+[Languages.en.params.hero_cloud]
+heading = "Focus on your business. We take care of your app."
+description = "Spend more time on what matters. We take care of the rest, with our suite of powerful DevOps tools and services for every type of app."
+
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true

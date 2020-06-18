@@ -4,11 +4,11 @@
     <div class="row">
       <div>
         <div class="block">
-          {{ with .Site.Params.hero_cto.heading }}
+          {{ with .Site.Params.hero_cloud.heading }}
           <h2>{{ . }}</h2>
-          {{ end }} {{ with .Site.Params.hero_cto.description }}
+          {{ end }} {{ with .Site.Params.hero_cloud.description }}
           <p style="font-size: 24px; line-height: 1.5;">{{ . }}</p>
-          {{ end }} {{ if .Site.Params.hero_cto.button }}
+          {{ end }} {{ if .Site.Params.hero_cloud.button }}
           <ul
             class="list-inline wow fadeInUp"
             data-wow-duration=".5s"
@@ -16,10 +16,10 @@
           >
             <li class="list-inline-item">
               <a
-                href="{{ with .Site.Params.hero_cto.btnURL }}{{.}}{{ end }}"
+                href="{{ with .Site.Params.hero_cloud.btnURL }}{{.}}{{ end }}"
                 target="_blank"
                 class="btn btn-main"
-                >{{ with .Site.Params.hero_cto.btnText }}{{.}}{{ end }}</a
+                >{{ with .Site.Params.hero_cloud.btnText }}{{.}}{{ end }}</a
               >
             </li>
           </ul>
