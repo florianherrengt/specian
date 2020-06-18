@@ -1,8 +1,8 @@
 ---
-title: "Using 3D printers to solve the PPE crisis"
+title: "3D printing to help the NHS"
 date: 2020-06-06T00:00:00+00:00
 image: images/blog/3d-printing-ppe.jpg
-summary: "How we created 2,500+ face shields for NHS workers to fight the PPE shortage crisis"
+summary: "We created 2,500+ face shields for NHS workers to fight the PPE shortage crisis"
 ---
 
 As passionate software engineers, we believe the best part in our job is to solve problems and help people.
@@ -17,7 +17,7 @@ We first distributed a few dozen to nurses and doctors to start collecting feedb
 
 Initially, it took us almost an hour to print a single headband. After lots of trial and error, we got this time down to 25min! That’s when we stumbled upon another issue: printing one headband faster also meant we had to constantly check on the printer to remove the headband already done and restart it. For days we used a timer to remind us to change and restart the print every 25min. It was eating up our whole day. This was not sustainable.
 
-### Scaling
+### Scaling
 
 We worked on a way to stack our headbands so we didn’t have to check on the print as often, which also presented new challenges. Our printer was quite cheap and temperamental. The higher the print, the higher the risk of something going wrong. After days of failed, crooked and uneven stacks, we finally nailed down the process and felt confident enough to let the printer run all night without supervision.
 
