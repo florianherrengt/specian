@@ -6,27 +6,27 @@ item:
       Deliver a better experience to your users by sending updates directly to them and monitor in real-time.
 
   - icon: tf-ion-android-refresh
-    title: Deliver continuously
+    title: Deliver Continuously
     description: >
-      Automate app delivery. Our preconfigured, customizable best practices automate your delivery pipeline in minutes.
+      Improve your app delivery. Use our preconfigured delivery pipeline following best practices to deploy in minutes.
 
   - icon: tf-ion-ios-people
-    title: Empower the entire team
+    title: Empower The Entire Team
     description: >
-      Leverage automation to help your team move faster and iterate quickly to deploy features and fixes at the speed of development.
+      Leverage automation to help your team move faster and iterate quickly. Deploy features and fixes as soon as they are ready.
 
   - icon: tf-ion-android-lock
-    title: Advanced security
+    title: Advanced Security
     description: >
-      Implement excellent data protection without being a security expert. We deploy and manage your app, so you can get back to focusing on your business.
+      Implement excellent data protection without being a security expert. We deploy and manage your app, so you can focus on your business.
 
   - icon: tf-ion-ios-bolt
-    title: Ultra performant
+    title: Ultra Performant
     description: >
-      Built on an industry-leading technologies, designed to outperform traditional systems.
+      Built on industry-leading technologies, designed to outperform traditional systems.
 
   - icon: tf-ion-ios-checkmark
-    title: Highly reliable
+    title: Highly Reliable
     description: >
       Reduce risk of data loss in the event of an unexpected crash or power failure.
 

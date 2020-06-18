@@ -133,7 +133,7 @@ description = "Kicking off a mission-critical development project? Trying to acc
 
 [Languages.en.params.hero_cloud]
 heading = "Focus on your business. We take care of your app."
-description = "Spend more time on what matters. We take care of the rest, with our suite of powerful DevOps tools and services for every type of app."
+description = "Spend more time on what matters. We take care of the rest, with our suite of powerful DevOps tools and services."
 
 # About 2 Section
 [Languages.en.params.aboutSm]

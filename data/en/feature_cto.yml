@@ -1,7 +1,7 @@
 enable: true
 item:
   - icon: tf-ion-chatbox-working
-    title: Real time communiation
+    title: Real time communication
     description: >
       Unlock realtime access to our engineers and mobile experts via dedicated chat.
 
@@ -28,12 +28,12 @@ item:
   - icon: tf-ion-checkmark-circled
     title: Technical Debt Avoidance
     description: >
-      Provide customized strategies to help you lay the right foundation and avoid technical debt.
+      Provide customized strategies to help you lay strong foundations and avoid technical debt.
 
   - icon: tf-ion-android-star
     title: DevOps Best Practices
     description: >
-      Automate every phase of app your development and delivery, with best practices to help you get the most out of available tools and services.
+      Automate every phase of your development and delivery, we help you get the most out of available tools and services.
 
   - icon: tf-ion-arrow-graph-up-right
     title: Time-to-Market Acceleration
