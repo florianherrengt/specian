@@ -6,7 +6,7 @@ item  :
   - name        : Cloud Management
     learnMoreUrl: /cloud/index.html
     imageClass  : cloud
-    price       : £300+ / mo
+    price       : £5000+ / mo
     description : Worry-free hosting
     featurelist :
       - item: Deploy a stable and reliable application
@@ -19,7 +19,7 @@ item  :
   - name        : cto advisory
     learnMoreUrl: /cto/index.html
     imageClass  : cto
-    price       : £1,500 / mo
+    price       : £10,000 / mo
     description : Make the right technical decisions
     featurelist :
       - item: Realtime access to experienced engineers
